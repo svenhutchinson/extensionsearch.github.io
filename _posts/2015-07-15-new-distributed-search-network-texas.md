@@ -7,7 +7,9 @@ author:
   display_name: gaetan
   first_name: Gaetan
   last_name: Gachet
+published: true
 ---
+![wcgeek.png]({{site.baseurl}}/_posts/wcgeek.png)
 
 You probably already know it: any millisecond that end-users have to wait to
 get their results drives us nuts. But what on Earth does this have to do with
